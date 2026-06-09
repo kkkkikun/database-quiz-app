@@ -1,0 +1,6 @@
+{
+  "name": "数据库原理题库",
+  "description": "一个功能齐全、可无限次练习的数据库原理经典题库做题系统，支持单选题和填空题模式，并配有智能错题本、多套随机练习及模拟测试功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
